@@ -1,0 +1,12 @@
+{
+    "Website":"https://www.techlistic.com/p/selenium-practice-form.html",
+    "firstname":"tonymore",
+    "lastname":"ochuba",
+    "gender" : "male",
+    "yearsexperience" : "1",
+    "date" : "03.20.2022",
+    "Profession": "manual tester",
+    "Automationtools":"UFT",
+    "Continents" : "Europe",
+    "multiplecommands":"Browser commands"
+}
